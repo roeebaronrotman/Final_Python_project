@@ -110,6 +110,4 @@ This project is released under the MIT License – see `LICENSE` for details.
 
 ## 👤 Author & Contact
 
-*Maintainer:* **Your Name** · [your.email@example.com](mailto:your.email@example.com)
-
 Have ideas or questions? Open an issue or drop me a line – happy to discuss!
